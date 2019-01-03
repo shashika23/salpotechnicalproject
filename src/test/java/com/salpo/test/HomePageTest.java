@@ -24,7 +24,6 @@ public class HomePageTest {
         driver = new ChromeDriver();
         driver.manage().window().maximize();
         driver.manage().timeouts().implicitlyWait(1000, TimeUnit.SECONDS);
-        HomePage homePage = new HomePage(driver);
     }
 
     @Test
