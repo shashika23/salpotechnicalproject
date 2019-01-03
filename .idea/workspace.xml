@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfa4fbda-0223-4b82-81f8-c1658bd39fb2" name="Default Changelist" comment="commiting salpo sample project to git">
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/salpo/test/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/salpo/test/HomePageTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="dfa4fbda-0223-4b82-81f8-c1658bd39fb2" name="Default Changelist" comment="commiting salpo sample project to git" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -77,8 +75,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/salpo/test/HomePageTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="100">
-              <caret line="29" column="69" lean-forward="true" selection-start-line="29" selection-start-column="69" selection-end-line="29" selection-end-column="69" />
+            <state relative-caret-position="117">
+              <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -197,7 +195,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546497264037" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546497434689" />
     <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -269,12 +267,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="HomePageTest - 2018.12.30 at 16h 21m 10s.xml">
-      <configuration name="HomePageTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="HomePageTest - 2018.12.30 at 16h 23m 26s.xml">
-      <configuration name="HomePageTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="HomePageTest - 2018.12.30 at 16h 28m 14s.xml">
       <configuration name="HomePageTest" configurationId="JUnit" />
     </history-entry>
@@ -298,6 +290,12 @@
     </history-entry>
     <history-entry file="HomePageTest - 2019.01.02 at 15h 40m 47s.xml">
       <configuration name="HomePageTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HomePageTest_verifySearchResultAndNavigatedUrl - 2019.01.03 at 12h 02m 50s.xml">
+      <configuration name="HomePageTest.verifySearchResultAndNavigatedUrl" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="HomePageTest_verifySearchResultAndNavigatedUrl - 2019.01.03 at 12h 04m 08s.xml">
+      <configuration name="HomePageTest.verifySearchResultAndNavigatedUrl" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -374,8 +372,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/salpo/test/HomePageTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="100">
-          <caret line="29" column="69" lean-forward="true" selection-start-line="29" selection-start-column="69" selection-end-line="29" selection-end-column="69" />
+        <state relative-caret-position="117">
+          <caret line="30" column="8" selection-start-line="30" selection-start-column="8" selection-end-line="30" selection-end-column="8" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
