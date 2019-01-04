@@ -1,5 +1,6 @@
 package com.salpo.test;
 
+import com.salpo.pages.BasePage;
 import io.github.bonigarcia.wdm.WebDriverManager;
 import org.junit.After;
 import org.junit.Assert;
@@ -13,18 +14,9 @@ import com.salpo.pages.HomePage;
 import java.util.concurrent.TimeUnit;
 import java.net.URL;
 
-public class HomePageTest {
+public class HomePageTest extends BasePage {
 
     WebDriver driver;
-
-    @Before
-    public void setup() throws Exception{
-
-        WebDriverManager.chromedriver().setup();
-        driver = new ChromeDriver();
-        driver.manage().window().maximize();
-        driver.manage().timeouts().implicitlyWait(1000, TimeUnit.SECONDS);
-    }
 
     @Test
     public void verifySearchResultAndNavigatedUrl() throws Exception{
