@@ -32,8 +32,6 @@ public class HomePage {
     private WebElement salpoNavigatedHead;
 
 
-
-
     public HomePage(WebDriver driver){
         this.driver=driver;
         driver.get(PAGE_URL);
